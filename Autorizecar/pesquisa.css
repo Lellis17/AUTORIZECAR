@@ -1,0 +1,42 @@
+
+
+    
+    body {
+        background-color: #90EE90; 
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    h1 {
+        color: green;
+    }
+
+    label {
+        color: green; 
+    }
+
+    input[type="text"] {
+        padding: 10px;
+        width: 300px;
+        border: none;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+    #resultado {
+      background-color: #fffaf0;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px;
+        color: #ff0000;
+    }
+
+        .imagem-veiculo {
+            vertical-align: middle;
+            margin-left: 5px; 
+        }
+
+
+
